@@ -1,0 +1,20 @@
+{
+  "name": "privacy-policy-site",
+  "version": "1.0.0",
+  "description": "A website for displaying privacy policy and related information.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "privacy",
+    "policy",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
